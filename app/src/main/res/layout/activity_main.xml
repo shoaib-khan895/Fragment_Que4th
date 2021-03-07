@@ -9,8 +9,8 @@
     <FrameLayout
         android:id="@+id/fragment"
         android:name="com.example.fragment_question4.Frag_1"
-        android:layout_width="462dp"
-        android:layout_height="299dp"
+        android:layout_width="389dp"
+        android:layout_height="272dp"
         android:layout_marginBottom="72dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
